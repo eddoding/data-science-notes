@@ -1,2 +1,2 @@
-# kaggle-practices
-Collections of Kaggle's competition attempted solution
+# Practices
+Collection of data science notes
